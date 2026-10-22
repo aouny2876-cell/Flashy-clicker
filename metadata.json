@@ -1,0 +1,6 @@
+{
+  "name": "Flashy Clicker",
+  "description": "A flashy 2D incremental clicker simulator with dynamic particle VFX, combo multipliers, powerful unlockable tools, auto-clickers, and prestige rebirth.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
